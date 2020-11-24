@@ -1,4 +1,4 @@
-update=nie, 8 lis 2020, 19:43:56
+update=wto, 24 lis 2020, 12:28:58
 version=1
 last_client=kicad
 [general]
